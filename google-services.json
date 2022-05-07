@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "248585328376",
+    "project_id": "bioproducts-webshop",
+    "storage_bucket": "bioproducts-webshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248585328376:android:cfc1418226071a96ee8d0d",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248585328376-ou23v0v49k9t1goi6peabavi7i29hdr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop",
+            "certificate_hash": "1e65c2d4ffa1ee281def503f5870f6be5eccefe5"
+          }
+        },
+        {
+          "client_id": "248585328376-du8nq5s3brhbs0eusgv4r0668m240jhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ5TFarhwKLRVRt4ub9whYVuH_DJeg0jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248585328376-du8nq5s3brhbs0eusgv4r0668m240jhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
